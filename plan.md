@@ -1,8 +1,46 @@
+## Résumé
+
+Notre recherche vise à dresser un état de l'art récent sur l'harmonisation automatique de mélodies, avec un accent particulier sur les techniques ne nécessitant pas d'entraînement préalable. Comment les méthodes actuelles, notamment celles qui s'affranchissent de l'apprentissage profond et des modèles complexes, parviennent-elles à harmoniser efficacement une mélodie ? Cette question cherche à évaluer les progrès et les tendances du domaine et à en identifier les acteurs.
+
+Pour notre question de recherche, nous allons effectuer une recherche bibliographique. Cela nous permettra de comprendre les avancées récentes dans le domaine de l'harmonisation mélodique, en particulier celles ne nécessitant pas d'apprentissage préalable, et d'identifier les tendances actuelles et futures.
+
+Le protocole est le suivant : on commencera par identifier les sources primaires pour identifier les articles et travaux récents dans le domaine de l'harmonisation mélodique puis dans un second temps on analysera les méthodes ainsi décrites pour enfin les comparer et synthétiser tout cela en mettant l'accent sur les innovations, les améliorations de performance et les limitations.
+
+## Table des matières
+
+1. Introduction
+2. Fondements théoriques de l'harmonisation
+   2.1. Concepts musicaux essentiels
+   2.2. Représentation informatique de la musique
+3. Modélisation et algorithmes pour l’harmonisation automatique
+   3.1. Approches basées sur les règles
+   3.2. Approches probabilistes et interpolation
+   3.3. Représentations structurées et grammaires
+4. Évaluation des méthodes d’harmonisation
+   4.1. Critères d'évaluation
+   4.2. Méthodologies
+   4.3. Comparaison des approches
+5. Implémentations et applications
+   5.1. Outils et frameworks
+   5.2. Applications pratiques
+6. Conclusion
+
 ## Introduction
 
-- **Contexte :** L'harmonisation automatique de mélodies est un défi complexe en informatique musicale. Elle combine les connaissances musicales et des approches algorithmiques pour créer des harmonisations qui respectent les règles musicales tout en proposant des solutions innovantes.
-- **Problématique :** Comment les méthodes actuelles, notamment celles ne nécessitant pas d'apprentissage profond, parviennent-elles à harmoniser efficacement une mélodie ? Quels sont les avantages et limites de ces approches ?
-- **Justification du plan :** Le plan suit une progression logique allant des bases conceptuelles et théoriques aux méthodes pratiques et leur évaluation. Cette structure favorise une compréhension approfondie des enjeux, des méthodes, et des applications dans le domaine.
+### Contexte
+L'harmonisation automatique de mélodies est un défi complexe en informatique musicale. Elle combine les connaissances musicales et des approches algorithmiques pour créer des harmonisations qui respectent les règles musicales tout en proposant des solutions innovantes.
+
+Les théoriciens de la musique ont établi depuis longtemps des règles d'harmonisation traditionnelles, comme celles utilisées dans le style de Bach. Ces règles servent de base aux approches algorithmiques modernes qui tentent d'automatiser le processus d'harmonisation. Cependant, avec l'émergence de l'intelligence artificielle, de nouvelles méthodes basées sur l'apprentissage profond ont gagné en popularité, laissant parfois dans l'ombre des approches plus traditionnelles. Cependant, certaines présentent pourtant des avantages significatifs, notamment en termes de transparence et d'absence de nécessité d'entraînement préalable.
+
+### Problématique
+Comment les méthodes actuelles, notamment celles ne nécessitant pas d'apprentissage profond, parviennent-elles à harmoniser efficacement une mélodie ? Quels sont les avantages et limites de ces approches ?
+
+Cette recherche vise à dresser un état de l'art actualisé des méthodes d'harmonisation, en mettant l'accent sur les approches qui ne reposent pas sur l'apprentissage profond. Notre analyse s'appuie sur une revue approfondie de la littérature scientifique récente, particulièrement des publications issues de la conférence ISMIR, référence dans le domaine de la recherche en informatique musicale.
+
+### Justification du plan
+Le plan suit une progression logique allant des bases conceptuelles et théoriques aux méthodes pratiques et leur évaluation. Cette structure favorise une compréhension approfondie des enjeux, des méthodes, et des applications dans le domaine.
+
+Ce mémoire s'organise en commençant par les fondements théoriques nécessaires à la compréhension de l'harmonisation musicale, avant d'explorer les différentes approches algorithmiques. Nous examinerons ensuite les méthodes d'évaluation de ces systèmes, pour finir par leurs applications pratiques et leurs implémentations concrètes. Cette progression permettra de comprendre l'état actuel de la recherche et d'identifier les perspectives futures dans ce domaine en constante évolution.
 
 ---
 
